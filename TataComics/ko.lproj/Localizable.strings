@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  TataComics
+
+  Created by Albert on 12/17/14.
+  Copyright (c) 2014 Tataland. All rights reserved.
+*/
+
+"OK"                        = "OK";
+"Cancel"                    = "Cancel";
+"Back"                      = "Back";
+
+"Region"                    = "Region";
+"IncorrectCredential"       = "Your phone number or password is incorrect. Please try again.";
+"ConnectionError"           = "Please check your network connection and try again.";
+"CallingCodeEmpty"          = "The calling code field is empty.";
+"PhoneNumberEmpty"          = "The phone number field is empty.";
+"PasswordEmpty"             = "The password field is empty.";
+"PasswordMismatch"          = "The password and confirm password are not equal.";
+"VerificationCodeEmpty"     = "The verification code field is empty.";
+"DuplicatedPhoneNumber"     = "Your phone number has already taken.";
+"UnknownError"              = "Unknown error. Please try again.";
+"IncorrectVerificationCode" = "Verification code is incorrect. Please try again.";
+
+"Browse"                    = "Browse";
+"Featured"                  = "Featured";
+"My Books"                  = "My Books";
+"Purchased"                 = "Purchased";
+"Search"                    = "Search";
+"Store"                     = "Store";
+"Share"                     = "Share";
+"See All"                   = "See All";
+"Popular Books"             = "Popular Books";
+"Hot This Week"             = "Hot This Week";
+"New Books"                 = "New Books";
+"Description"               = "Description";
+"Information"               = "Information";
+"author"                    = "Author";
+"category"                  = "Category";
+"updated"                   = "Updated";
+"version"                   = "Version";
+"size"                      = "Size";
+"language"                  = "Language";
+"Yes"                       = "Yes";
+"No"                        = "No";
+"Close"                     = "Close";
+"Error"                     = "Error";
+"Update"                    = "Update";
+"Open"                      = "Open";
+"Get"                       = "Get";
+"Free"                      = "Free";
+"Waiting"                   = "Waiting...";
+"Downloading"               = "Downloading";
+"DearKids"                  = "Dear, kids";
+"GetIAPInfoFailed"          = "Fetching information was failed from App Store. Please check you connection.";
+"BookIsPreparing"           = "This book will be available soon...";
+"DownloadFailed"            = "Downloading book was failed. Please try again.";
+"NoSelectionForDelete"      = "Please select the books you want to delete.";
+"ConfirmDelete"             = "Are you sure you want to delete the selected books?";
+"Facebook"                  = "Facebook";
+"Twitter"                   = "Twitter";
+"Email"                     = "Email";
+"ShareMessage"				= "Hey I'm using TataComics.\nYou should check it out at following stores.\n{APPSTORE_URL}";
+"WhatsappMessage"           = "%F0%9F%98%83Dear%2C%0AYour%20children%20can%20learn%20during%20play%20%22Tata%20Stories%22%0A%F0%9F%8E%AE%F0%9F%93%B2%F0%9F%92%AC%F0%9F%9A%BC%0AA%20wonderful%20application%20to%20show%20the%20stories%20of%20children%0AInteractive%20and%20fun%20and%20write%20in%20Arabic%0AFree%20for%20a%20limited%20time%0A%F0%9F%86%93%0ATo%20download%20the%20application%0A%0Ahttps%3A%2F%2Fitunes.apple.com%2Fapp%2Fapple-store%2Fid951461934%3Fpt%3D2189904%26ct%3Dwhat%27sapp%2520link%2520to%2520IOS%26mt%3D8%0A%0A%0A%F0%9F%8E%A5%0ATo%20learn%20more%2C%20watch%20the%20video%0Ahttp%3A%2F%2Fyoutu.be%2FZHCRi9NLaGk";
+"NoInstagramApp"            = "Instagram app is not installed on your device.";
+"NoWhatsApp"                = "WhatsApp is not installed on your device.";
+
+/*
+  Image Files
+*/
+"ButtonCategory"            = "ButtonCategory";
+"ButtonLibrary"             = "ButtonLibrary";
+"ButtonPurchased"           = "ButtonPurchased";
+"ButtonStore"               = "ButtonStore";
+"ButtonAccount"             = "ButtonAccount";
+"ButtonShare"               = "ButtonShare";

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0DCAD7C-27BD-47B6-8885-11CA13FD82BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TataComics</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9780c4d7-3a5b-4c04-a471-653942d21f8c++5431</key>
+		<string>http://dev.hanastt.org/svn/Tata/trunk/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TataComics/TataComics.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9780c4d7-3a5b-4c04-a471-653942d21f8c++5431</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9780c4d7-3a5b-4c04-a471-653942d21f8c++5431</key>
+		<string>http://dev.hanastt.org/svn/Tata</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://dev.hanastt.org/svn/Tata/trunk/ios/TataComics/TataComics.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9780c4d7-3a5b-4c04-a471-653942d21f8c++5431</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9780c4d7-3a5b-4c04-a471-653942d21f8c++5431</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

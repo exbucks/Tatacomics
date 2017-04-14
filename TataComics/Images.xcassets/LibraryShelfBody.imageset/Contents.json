@@ -1,0 +1,58 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 54,
+          "height" : 126
+        },
+        "capInsets" : {
+          "bottom" : 69,
+          "top" : 208,
+          "right" : 190,
+          "left" : 165
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "LibraryShelfBody~iPhone.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 108,
+          "height" : 251
+        },
+        "capInsets" : {
+          "bottom" : 137,
+          "top" : 416,
+          "right" : 379,
+          "left" : 329
+        }
+      },
+      "idiom" : "ipad",
+      "filename" : "LibraryShelfBody.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

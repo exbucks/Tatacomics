@@ -1,0 +1,126 @@
+
+/* Class = "IBUIButton"; normalTitle = "Submit"; ObjectID = "0Cu-Tz-9YQ"; */
+"0Cu-Tz-9YQ.normalTitle" = "Submit";
+
+/* Class = "IBUILabel"; text = "Write short details here."; ObjectID = "0zW-n5-ZOT"; */
+"0zW-n5-ZOT.text" = "Write short details here.";
+
+/* Class = "IBUILabel"; text = "Please input the verification code you received."; ObjectID = "1ju-pS-0cG"; */
+"1ju-pS-0cG.text" = "Please input the verification code you received.";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "8t0-rh-ehO"; */
+"8t0-rh-ehO.placeholder" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Specific"; ObjectID = "AIh-iF-xtA"; */
+"AIh-iF-xtA.normalTitle" = "Specific";
+
+/* Class = "IBUIButton"; normalTitle = "Featured"; ObjectID = "AUQ-Gm-lgf"; */
+"AUQ-Gm-lgf.normalTitle" = "Featured";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "BVe-YF-FIM"; */
+"BVe-YF-FIM.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Category"; ObjectID = "BWr-zA-atm"; */
+"BWr-zA-atm.normalTitle" = "Category";
+
+/* Class = "IBUITextField"; text = "+"; ObjectID = "BoN-2W-xhg"; */
+"BoN-2W-xhg.text" = "+";
+
+/* Class = "IBUIButton"; normalTitle = "See All >"; ObjectID = "CDr-67-Hmo"; */
+"CDr-67-Hmo.normalTitle" = "See All >";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "GLa-Ua-pLK"; */
+"GLa-Ua-pLK.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "SIgn Up"; ObjectID = "HoP-k7-Pil"; */
+"HoP-k7-Pil.normalTitle" = "SIgn Up";
+
+/* Class = "IBUILabel"; text = "Information"; ObjectID = "KQe-cH-6Q1"; */
+"KQe-cH-6Q1.text" = "Information";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "KcH-c1-0Zx"; */
+"KcH-c1-0Zx.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Sign Up"; ObjectID = "LVb-vg-pQV"; */
+"LVb-vg-pQV.title" = "Sign Up";
+
+/* Class = "IBUITextField"; placeholder = "Confirm Password"; ObjectID = "Lcl-fR-9aT"; */
+"Lcl-fR-9aT.placeholder" = "Confirm Password";
+
+/* Class = "IBUITextField"; text = "+"; ObjectID = "Mb3-h7-mpC"; */
+"Mb3-h7-mpC.text" = "+";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "RQI-RL-kfb"; */
+"RQI-RL-kfb.title" = "Back";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "SbX-NY-vjs"; */
+"SbX-NY-vjs.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "TQQ-yN-Ccq"; */
+"TQQ-yN-Ccq.text" = "Title";
+
+/* Class = "IBUITextView"; text = "TataLand Company\ninfo@tataland.com\n+965 99884462"; ObjectID = "WFH-Bi-Zwd"; */
+"WFH-Bi-Zwd.text" = "TataLand Company\ninfo@tataland.com\n+965 99884462";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "Wpd-ga-v26"; */
+"Wpd-ga-v26.title" = "Back";
+
+/* Class = "IBUINavigationItem"; title = "Sign In"; ObjectID = "Yip-bO-8qg"; */
+"Yip-bO-8qg.title" = "Sign In";
+
+/* Class = "IBUINavigationItem"; title = "Verification Code"; ObjectID = "b6v-g1-74R"; */
+"b6v-g1-74R.title" = "Verification Code";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "bvz-oQ-siB"; */
+"bvz-oQ-siB.title" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Purchased"; ObjectID = "dGI-e4-rDN"; */
+"dGI-e4-rDN.normalTitle" = "Purchased";
+
+/* Class = "IBUITextField"; placeholder = "Mobile number"; ObjectID = "dZl-4O-8MG"; */
+"dZl-4O-8MG.placeholder" = "Mobile number";
+
+/* Class = "IBUIButton"; normalTitle = "Category"; ObjectID = "eTa-ly-DxJ"; */
+"eTa-ly-DxJ.normalTitle" = "Category";
+
+/* Class = "IBUILabel"; text = "Popular Books"; ObjectID = "en1-pQ-hwe"; */
+"en1-pQ-hwe.text" = "Popular Books";
+
+/* Class = "IBUIButton"; normalTitle = "$0.99"; ObjectID = "fRy-Sh-iLo"; */
+"fRy-Sh-iLo.normalTitle" = "$0.99";
+
+/* Class = "IBUIButton"; normalTitle = "Region >"; ObjectID = "gJT-d2-TTg"; */
+"gJT-d2-TTg.normalTitle" = "Region >";
+
+/* Class = "IBUIButton"; normalTitle = "Region >"; ObjectID = "guj-I4-yq8"; */
+"guj-I4-yq8.normalTitle" = "Region >";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "lzF-de-yIZ"; */
+"lzF-de-yIZ.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "Register"; ObjectID = "nNK-OF-FqG"; */
+"nNK-OF-FqG.normalTitle" = "Register";
+
+/* Class = "IBUILabel"; text = "Pigeongram"; ObjectID = "ns9-9s-7xT"; */
+"ns9-9s-7xT.text" = "Pigeongram";
+
+/* Class = "IBUIButton"; normalTitle = "SIgn In"; ObjectID = "p3o-uu-ICc"; */
+"p3o-uu-ICc.normalTitle" = "SIgn In";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "p8G-f2-7Ah"; */
+"p8G-f2-7Ah.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Region"; ObjectID = "pLd-PI-7Xc"; */
+"pLd-PI-7Xc.title" = "Region";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "qie-lO-Tzu"; */
+"qie-lO-Tzu.title" = "Back";
+
+/* Class = "IBUITextField"; placeholder = "Mobile number"; ObjectID = "sQZ-n6-X4u"; */
+"sQZ-n6-X4u.placeholder" = "Mobile number";
+
+/* Class = "IBUILabel"; text = "Peter Pan"; ObjectID = "sqE-fB-bpq"; */
+"sqE-fB-bpq.text" = "Peter Pan";
+
+/* Class = "IBUILabel"; text = "Description"; ObjectID = "sr7-L7-KkL"; */
+"sr7-L7-KkL.text" = "Description";

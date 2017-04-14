@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  TataComics
+
+  Created by Albert on 12/17/14.
+  Copyright (c) 2014 Tataland. All rights reserved.
+*/
+
+"OK"                        = "حسنا";
+"Cancel"                    = "إلغاء";
+"Back"                      = "إلى الوراء";
+
+"Region"                    = "منطقة";
+"IncorrectCredential"       = "Your phone number or password is incorrect. Please try again.";
+"ConnectionError"           = "Please check your network connection and try again.";
+"CallingCodeEmpty"          = "The calling code field is empty.";
+"PhoneNumberEmpty"          = "The phone number field is empty.";
+"PasswordEmpty"             = "The password field is empty.";
+"PasswordMismatch"          = "The password and confirm password are not equal.";
+"VerificationCodeEmpty"     = "The verification code field is empty.";
+"DuplicatedPhoneNumber"     = "Your phone number has already taken.";
+"UnknownError"              = "Unknown error. Please try again.";
+"IncorrectVerificationCode" = "Verification code is incorrect. Please try again.";
+
+"Browse"                    = "تصفح";
+"Featured"                  = "متميز";
+"My Books"                  = "قصصي";
+"Purchased"                 = "تم شراءه";
+"Search"                    = "بحث";
+"Store"                     = "السوق";
+"Share"                     = "مشاركة";
+"See All"                   = "مشاهدة الكل";
+"Popular Books"             = "ا لأكثر رواجاً";
+"Hot This Week"             = "ا لأكثر رواجاً لهذا ا لاسبوع";
+"New Books"                 = "القصص الجديدة";
+"Description"               = "الوصف";
+"Information"               = "معلومات";
+"author"                    = "ا لمؤلف";
+"category"                  = "التصنيف";
+"updated"                   = "تم تحديثها";
+"version"                   = "النسخة";
+"size"                      = "الحجم";
+"language"                  = "اللغة";
+"Yes"                       = "نعم";
+"No"                        = "لا";
+"Close"                     = "إغلاق";
+"Error"                     = "خطأ";
+"Update"                    = "تحديث";
+"Open"                      = "فتح";
+"Get"                       = "احصل عليها";
+"Free"                      = "مجاناً";
+"Waiting"                   = "إنتظار";
+"Downloading"               = "جاري التنزيل...";
+"DearKids"                  = "أعزائي الأطفال";
+"GetIAPInfoFailed"          = "صديقي العزيز، تأكد من اتصالك با لانترنت";
+"BookIsPreparing"           = "هذه القصة ستكون متوفرة قريباً...";
+"DownloadFailed"            = "فشل في تحميل القصة، يرجى المحاولة لاحقاً";
+"NoSelectionForDelete"      = "يرجj إختيار القصة التي ترغب بمسحها";
+"ConfirmDelete"             = "هل أنت متأكد من أنك تريد مسح هذه القصة؟";
+"Facebook"                  = "Facebook";
+"Twitter"                   = "Twitter";
+"Email"                     = "Email";
+"ShareMessage"				= "وأخيراً...وجدت تطبيق #قصص_تاتا مكتبة تفاعلية للأطفال على الأيباد...فيها يلعب الطفل و يقرأ و يتعلم بشكل ممتع\n{APPSTORE_URL}";
+"WhatsappMessage"           = "%0A%D9%88%20%D8%A3%D8%AE%D9%8A%D8%B1%D8%A7..%F0%9F%98%83%0A%20%D8%B7%D9%81%D9%84%D9%83%20%D9%8A%D8%AA%D8%B9%D9%84%D9%85%20%D8%A3%D8%AB%D9%86%D8%A7%D8%A1%20%D9%88%D9%82%D8%AA%20%D8%A7%D9%84%D9%84%D8%B9%D8%A8%20%0A%22%20%D9%82%D8%B5%D8%B5%20%D8%AA%D8%A7%D8%AA%D8%A7%20%22%0A%F0%9F%8E%AE%F0%9F%93%B2%F0%9F%92%AC%F0%9F%9A%BC%0A%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%B1%D8%A7%D8%A6%D8%B9%20%D9%84%D9%82%D8%B5%D8%B5%20%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%0A%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A%20%D9%88%20%D9%85%D9%85%D8%AA%D8%B9%20%D9%88%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%0A%D9%85%D8%AC%D8%A7%D9%86%D8%A7%20%D9%84%D9%81%D8%AA%D8%B1%D8%A9%20%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%A9%0A%F0%9F%86%93%0A%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%0A%0Ahttps%3A%2F%2Fitunes.apple.com%2Fapp%2Fapple-store%2Fid951461934%3Fpt%3D2189904%26ct%3Dwhat%27sapp%2520link%2520to%2520IOS%26mt%3D8%0A%0A%0A%F0%9F%8E%A5%0A%D9%84%D8%AA%D8%B9%D8%B1%D9%81%20%D8%A3%D9%83%D8%AB%D8%B1%20%D8%B4%D8%A7%D9%87%D8%AF%20%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%0Ahttp%3A%2F%2Fyoutu.be%2FZHCRi9NLaGk";
+"NoInstagramApp"            = "Instagram app is not installed on your device.";
+"NoWhatsApp"                = "WhatsApp is not installed on your device.";
+
+/*
+ Image Files
+ */
+"ButtonCategory"            = "ButtonCategory_ar";
+"ButtonLibrary"             = "ButtonLibrary_ar";
+"ButtonPurchased"           = "ButtonPurchased_ar";
+"ButtonStore"               = "ButtonStore_ar";
+"ButtonAccount"             = "ButtonAccount_ar";
+"ButtonShare"               = "ButtonShare_ar";

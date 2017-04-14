@@ -1,0 +1,52 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "fill",
+          "width" : 13
+        },
+        "capInsets" : {
+          "right" : 247,
+          "left" : 252
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "LibraryBackgroundToy~iPhone.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "fill",
+          "width" : 26
+        },
+        "capInsets" : {
+          "right" : 494,
+          "left" : 504
+        }
+      },
+      "idiom" : "ipad",
+      "filename" : "LibraryBackgroundToy.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TSoundEmulator playEffect:volume:loop:]:TSoundEmulator.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "task.retainCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LLACircularProgressView drawRect:]:LLACircularProgressView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LLACircularProgressView updatePath]:LLACircularProgressView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TSoundTask initWithFilePath:volume:loop:stoppedHandler:]:TSoundEmulator.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.retainCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

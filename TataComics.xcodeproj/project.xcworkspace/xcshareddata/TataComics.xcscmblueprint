@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9780c4d7-3a5b-4c04-a471-653942d21f8c++5431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9780c4d7-3a5b-4c04-a471-653942d21f8c++5431" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9780c4d7-3a5b-4c04-a471-653942d21f8c++5431" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F0DCAD7C-27BD-47B6-8885-11CA13FD82BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9780c4d7-3a5b-4c04-a471-653942d21f8c++5431" : "ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TataComics",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TataComics\/TataComics.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/dev.hanastt.org\/svn\/Tata",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9780c4d7-3a5b-4c04-a471-653942d21f8c++5431"
+    }
+  ]
+}

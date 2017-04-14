@@ -1,0 +1,58 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 287,
+          "height" : 287
+        },
+        "capInsets" : {
+          "bottom" : 80,
+          "top" : 80,
+          "right" : 80,
+          "left" : 80
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "StoreShelfBody~iPhone.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 573,
+          "height" : 574
+        },
+        "capInsets" : {
+          "bottom" : 160,
+          "top" : 160,
+          "right" : 160,
+          "left" : 160
+        }
+      },
+      "idiom" : "ipad",
+      "filename" : "StoreShelfBody.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
